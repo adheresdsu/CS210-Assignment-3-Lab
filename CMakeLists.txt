@@ -7,4 +7,6 @@ add_executable(CS210_Assignment_3_Lab main.cpp
         Node.h
         List.h
         ArrayList.h
+        LinkedList.h
+        LinkedList.h
 )
