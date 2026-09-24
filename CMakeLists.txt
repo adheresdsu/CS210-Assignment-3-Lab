@@ -8,5 +8,5 @@ add_executable(CS210_Assignment_3_Lab main.cpp
         List.h
         ArrayList.h
         LinkedList.h
-        LinkedList.h
+        Data.h
 )
